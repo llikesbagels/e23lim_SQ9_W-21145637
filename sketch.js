@@ -433,7 +433,9 @@ function drawStartScreen() {
 
   // Hint for students — no debug panel yet
   fill(60);
-  textSize(30);
+  textSize(30
+    
+  );
 
   text("Press D to open debug panel", width / 2, height - 20);
 }
